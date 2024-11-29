@@ -1,4 +1,4 @@
-import { sendEmail } from './emailService';
+import { sendEmail } from '../services/email.service';
 
 export const handleFormSubmit = async (event, form) => {
     event.preventDefault();
