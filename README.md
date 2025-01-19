@@ -56,9 +56,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📬 Contact
 
-Your Name - [@yourTwitter](https://twitter.com/yourTwitter)
+Your Name - [@yourGmail](raydenmx89@gmail.com)
 
-Project Link: [https://github.com/yourUsername/yourRepository](https://github.com/yourUsername/yourRepository)
+Project Link: [https://github.com/yourUsername/yourRepository](https://github.com/rayden516/Personal-web)
 
 ## 🎉 Acknowledgments
 
